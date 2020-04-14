@@ -1,2 +1,264 @@
 # Resume
 Resume.html
+
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Resume</title>
+		<style type="text/css">
+			.tb1 {
+				background-color: lightgray;
+				width: 100%	
+			}
+			.P1 {
+				font-weight: bold;
+			}
+		</style>
+	</head>
+	<body>
+		<p class="P1">AKSHAY VYANKATESH CHIRANDAS</p>
+		16, Subhash Nagar,<br>
+		Ashok Chowk,Solapur<br> 
+		9595925220<br>
+		akshaychirandas07@gmail.com<br><br>
+		<table class="tb1">
+			<tr>
+				<td>
+					<p class="P1">CAREER OBJECTIVE<p>	
+				</td>
+			</tr>
+		</table>
+		<p>To work in an organization where I can use my technical skills to learn new technologies and obtain a good<br>
+position that will enable me to work for my personal growth and growth of the organization as well.</p>
+		<table class="tb1">
+			<tr>
+				<td>
+					<p class="P1">EDUCATION</p>	
+				</td>
+			</tr>
+		</table><hr>
+		<table>
+			<tr>
+				<td style="width: 45%">
+					<p class="P1">Course</p><hr>	
+				</td>
+				<td style="width: 30%">
+					<p class="P1">Institute</p><hr>
+				</td>
+				<td style="width: 20%">
+					<p class="P1">Year of Passing</p><hr>
+				</td>
+				<td>
+					<p class="P1">CGPA/Percentage</p><hr>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<p>Computer Science & Engineering</p>	
+				</td>
+				<td>
+					<p>Walchand Institute of Technology</p>
+				</td>
+				<td>
+					<p>2020</p>
+				</td>
+				<td>
+					<p>71.06</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<p>HSC</p>	
+				</td>
+				<td>
+					<p>Walchand College of Arts and Science,Solapur</p>
+				</td>
+				<td>
+					<p>2016</p>
+				</td>
+				<td>
+					<p>62</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<p>SSC</p><hr>
+				</td>
+				<td>
+					<p>Lokseva High School,Solapur</p><hr>
+				</td>
+				<td>
+					<p>2014</p><hr>
+				</td>
+				<td>
+					<p>66.60</p><hr>
+				</td>
+			</tr>
+		</table>
+		<table class="tb1"> 
+			<tr>
+				<td>
+					<p class="P1">TECHNICAL SKILLS</p>
+				</td>
+			</tr>
+		</table>
+		<table>
+			<tr>
+				<td>
+					<ul>
+						<li>Python</li>
+						<li>Java</li>
+						<li>C</li>
+						<li>HTML</li>
+						<li>CSS</li>
+					</ul>
+				</td>
+			</tr>
+		</table>
+		<table class="tb1">
+			<tr>
+				<td>
+					<p class="P1">PROJECT</p>
+				</td>
+			</tr>
+		</table>
+		<table>
+			<tr>
+				<td>
+					<ul>
+						<li class="P1">Internal Intrusion Detection & Protection System</li>
+						<p>IIDPS is used as security tool in a system to create users personal profile and to keep track of users<br>
+regular habits as their forensic features and determines whether a authorised login of user or not and if<br>
+not then comparing users current computer usage behaviours with the patterns collected in the users<br>
+personal profile.<br>
+Technology Stack : - Python,Pycharm,MySQL</p>
+						<li class="P1">Location Based Alarm System</li>
+						<p>By using this application user receive their current location and according to the location the alarm rings<br>
+at the set place to remind the work to do. Here the user also receive the notification of their work to be<br>
+completed. In this project I work as a developer of the application<br>
+Technology Stack : - Java, Firebase, Android Studio, Android Library<br>
+						<li class="P1">Hostel Management System</li>
+						<p>This desktop application helps to take the hostel admission online without going to the particular place.<br>
+We can pay the hostel fee online using this desktop application. In this application we used SQL<br>
+database system along with the java programing on net beans.<br>
+Technology Stack : - SQL, Java, Net Beans,</p>
+					</ul>
+				</td>
+			</tr>
+		</table>
+		<!-- <table class="tb1"> 
+			<tr>
+				<td>
+					<p class="P1">ACHIEVEMENTS & AWARDS</p>
+				</td>
+			</tr>
+		</table> -->
+		<!-- <table>
+			<tr>
+				<td>
+					<ul>
+						<li>Runner up in SMASH 2k17 (Badminton Tournament)</li>
+						<li>Stood 4th in Gymnastics District Tournament</li>
+						<li>Got 5 star batch in Python on Hackerrank</li>						
+					</ul>
+				</td>
+			</tr>
+		</table> -->
+		<table class="tb1"> 
+			<tr>
+				<td>
+					<p class="P1">INDUSTRIAL EXPOSURES</p>
+				</td>
+			</tr>
+		</table>
+		<table>
+			<tr>
+				<td>
+					<ul>
+						<li>NPTEL course in Technical English for Engineers</li>
+						<li>NPTEL course in Problem Solving Through Programing in C</li>
+						<li>NPTEL course in Developing Soft Skills and Personality</li>						
+					</ul>
+				</td>
+			</tr>
+		</table>
+		<table class="tb1"> 
+			<tr>
+				<td>
+					<p class="P1">PERSONAL STRENGTH</p>
+				</td>
+			</tr>
+		</table>
+		<table>
+			<tr>
+				<td>
+					<ul>
+						<li>Self Confidence</li>
+						<li>Team Work</li>
+						<li>Learning Attitude</li>	
+						<li>Time Management Ability.</li>
+					</ul>
+				</td>
+			</tr>
+		</table>
+		<!-- <table class="tb1"> 
+			<tr>
+				<td>
+					<p class="P1">ACTIVITIES</p>
+				</td>
+			</tr>
+		</table> -->
+		<!-- <table>
+			<tr>
+				<td>
+					<ul>
+						<li>Organizer of SMASH 2K19.</li>
+						<li>Participated in Code Marathon.</li>
+						<li>Participated in TechQuiz</li>	
+						<li>Participated in Smart India Hackethon</li>
+					</ul>
+				</td>
+			</tr>
+		</table> -->
+		<table class="tb1"> 
+			<tr>
+				<td>
+					<p class="P1">INTERESTS</p>
+				</td>
+			</tr>
+		</table>
+		<table>
+			<tr>
+				<td>
+					<ul>
+						<!-- <li>Badminton</li> -->
+						<li>Cricket</li>
+						<li>Watching movies and series</li>	
+					</ul>
+				</td>
+			</tr>
+		</table>
+		<table class="tb1"> 
+			<tr>
+				<td>
+					<p class="P1">PERSONAL DETAILS</p>
+				</td>
+			</tr>
+		</table>
+		<table>
+			<tr>
+				<td>
+					<ul>
+						<li>Date of Birth : 04/02/1999</li>
+						<li>Nationality : Indian</li>
+						<li>Languages : , English,Marathi, Hindi, Telugu</li>
+						<li>Hobby :  Playing Cricket, Watching movies and series,<br>
+Listening Music.</li>	
+					</ul>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
